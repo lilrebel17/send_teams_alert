@@ -10,6 +10,9 @@ A Bash utility script for sending formatted alerts to Microsoft Teams channels v
 - Configurable webhook URL via parameter or environment variable
 - Properly formatted output with line breaks preserved
 
+## Example Card
+![Example Card](/send_teams_alert_screenshot.png)
+
 ## Requirements
 
 - Bash 4.0+
